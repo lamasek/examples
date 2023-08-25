@@ -1,7 +1,7 @@
-
+#!python3
 
 # region  autoUiPy - automatic QT Designer .ui to .py converter ------------------------------
-# v 2023 , by Josef La Masek  masek2050@gmail.com
+# v 1 , by Josef La Masek  masek2050@gmail.com
 # 
 # no needs to do manually run 'pyuc' or by creating setup in project in QT Designer / QT Creator
 # just add this code to the begin of your main code
